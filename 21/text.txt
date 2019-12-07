@@ -1,0 +1,11 @@
+Link to emNLP conference papers:
+https://www.aclweb.org/anthology/volumes/D19-1/
+
+Aut-encoder: https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
+
+Gradient reversal: https://arxiv.org/abs/1409.7495
+
+De-noising auto-encoder: https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf
+https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
+
+VAE: https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
